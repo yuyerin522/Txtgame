@@ -237,7 +237,7 @@ namespace Txtgame
                     case "0":
                         exit = true; // 0을 입력하면 나가기
                         break;                  
-                }
+                }  //메롱
             }
         }
 
